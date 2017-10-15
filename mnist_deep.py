@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # load MNIST data
 import input_data
 mnist = input_data.read_data_sets("Mnist_data/", one_hot=True)
