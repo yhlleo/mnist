@@ -1,5 +1,5 @@
 # mnist
-Some samples of the MNIST classifier which are corresponding to the tutorials of the jikexueyuan(http://wiki.jikexueyuan.com/project/tensorflow-zh/).
+Some samples of the MNIST classifier which are corresponding to the tutorials of the jikexueyuan(https://wiki.jikexueyuan.com/project/tensorflow-zh/).
 
 **构建模块：**
 
@@ -22,7 +22,7 @@ Some samples of the MNIST classifier which are corresponding to the tutorials of
 
 **`mnist_softmax.py`**运行结果比较简单，就不列举。
 
-**`mnist_deep.py`**迭代运行较为耗时，结果已显示在博客： [深入MNIST code测试](http://blog.csdn.net/yhl_leo/article/details/50624471) 。
+**`mnist_deep.py`**迭代运行较为耗时，结果已显示在博客： [深入MNIST code测试](https://blog.csdn.net/yhl_leo/article/details/50624471) 。
 
 **`fully_connected_feed.py`**的运行结果如下（本人电脑为2 CPU，没有使用GPU）：
 ```
@@ -69,18 +69,18 @@ Test Data Eval:
 
 **`mnist_with_summaries.py`**主要提供了一种在Tensorboard可视化方法，首先，编译运行代码：
 
-![tensorboard](http://img.blog.csdn.net/20160219140910928)
+![tensorboard](https://img.blog.csdn.net/20160219140910928)
 
-运行完毕后，打开终端`Terminal`，输入`tensorboard --logdir=/tmp/mnist_logs`，就会运行出：`Starting TensorBoard on port 6006 (You can navigate to http://localhost:6006)`
+运行完毕后，打开终端`Terminal`，输入`tensorboard --logdir=/tmp/mnist_logs`，就会运行出：`Starting TensorBoard on port 6006 (You can navigate to https://localhost:6006)`
 
-然后，打开浏览器，输入链接`http://localhost:6006`：
+然后，打开浏览器，输入链接`https://localhost:6006`：
 
-![tensorboard2](http://img.blog.csdn.net/20160219141246792)
+![tensorboard2](https://img.blog.csdn.net/20160219141246792)
 
 其中，有一些选项，例如菜单栏里包括`EVENTS, IMAGES, GRAPH, HISTOGRAMS`，都可以一一点开查看~
 
-另外，此时如果不关闭该终端，是无法在其他终端中重新生成可视化结果的，会出现端口占用的错误，更多详细信息可以查看英文原文：[TensorBoard: Visualizing Learning](https://www.tensorflow.org/versions/master/how_tos/summaries_and_tensorboard/index.html)。
+另外，此时如果不关闭该终端，是无法在其他终端中重新生成可视化结果的，会出现端口占用的错误，更多详细信息可以查看英文原文：[TensorBoard: Visualizing Learning](httpss://www.tensorflow.org/versions/master/how_tos/summaries_and_tensorboard/index.html)。
 
-源自博客： [Tensorflow MNIST 数据集测试代码入门](http://http://blog.csdn.net/YhL_Leo/article/details/50614444)
+源自博客： [Tensorflow MNIST 数据集测试代码入门](https://https://blog.csdn.net/YhL_Leo/article/details/50614444)
 
 如有纰漏，欢迎指正！
