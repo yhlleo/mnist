@@ -79,7 +79,7 @@ Test Data Eval:
 
 其中，有一些选项，例如菜单栏里包括`EVENTS, IMAGES, GRAPH, HISTOGRAMS`，都可以一一点开查看~
 
-另外，此时如果不关闭该终端，是无法在其他终端中重新生成可视化结果的，会出现端口占用的错误，更多详细信息可以查看英文原文：[TensorBoard: Visualizing Learning](httpss://www.tensorflow.org/versions/master/how_tos/summaries_and_tensorboard/index.html)。
+另外，此时如果不关闭该终端，是无法在其他终端中重新生成可视化结果的，会出现端口占用的错误，更多详细信息可以查看英文原文：[TensorBoard: Visualizing Learning](https://www.tensorflow.org/versions/master/how_tos/summaries_and_tensorboard/index.html)。
 
 源自博客： [Tensorflow MNIST 数据集测试代码入门](https://https://blog.csdn.net/YhL_Leo/article/details/50614444)
 
