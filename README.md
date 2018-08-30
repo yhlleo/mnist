@@ -75,7 +75,7 @@ Test Data Eval:
 
 然后，打开浏览器，输入链接`https://localhost:6006`：
 
-![tensorboard2](https://img.blog.csdn.net/20160219141246792)
+![tensorboard2](http://img.blog.csdn.net/20160219141246792)
 
 其中，有一些选项，例如菜单栏里包括`EVENTS, IMAGES, GRAPH, HISTOGRAMS`，都可以一一点开查看~
 
