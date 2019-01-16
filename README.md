@@ -69,13 +69,13 @@ Test Data Eval:
 
 **`mnist_with_summaries.py`**主要提供了一种在Tensorboard可视化方法，首先，编译运行代码：
 
-![tensorboard](http://img.blog.csdn.net/20160219140910928)
+![tensorboard](https://img-blog.csdn.net/20160219140910928)
 
 运行完毕后，打开终端`Terminal`，输入`tensorboard --logdir=/tmp/mnist_logs`，就会运行出：`Starting TensorBoard on port 6006 (You can navigate to https://localhost:6006)`
 
 然后，打开浏览器，输入链接`https://localhost:6006`：
 
-![tensorboard2](http://img.blog.csdn.net/20160219141246792)
+![tensorboard2](https://img-blog.csdn.net/20160219141246792)
 
 其中，有一些选项，例如菜单栏里包括`EVENTS, IMAGES, GRAPH, HISTOGRAMS`，都可以一一点开查看~
 
